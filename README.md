@@ -1,4 +1,4 @@
-# Simpsons_Character_Classification
+# Simpsons_Image_Classification
 For this assignment you will be writing a Pytorch program that learns to classify 14 different Simpsons Characters using the grey scale images we provide.
 
 ![image](https://user-images.githubusercontent.com/43845085/130785055-c6fd9a37-9164-4ef9-9be9-ccd55094053f.png)
